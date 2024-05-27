@@ -29,3 +29,9 @@ permalink: /teaching/
 | Spring 2018 | AE 639: Continuum Mechanics
 
 ## Lecture Notes
+
+Here are some notes that I prepared for the lectures. Please note that (i) these notes are not in their final form and may be revised in the future, and (ii) they are meant to be used as supplementary reading material to motivate the interested student to explore further; the lectures will follow a more relaxed approach to the topics covered here. I have hosted some of the course material in separate webpages. PDF versions of the final lecture notes will be uploaded here as and when the notes reach some degree of maturity.
+
+- [Mathematical prerequisites](https://amuthan.github.io/tensors-intro/): This webpage contains lecture notes providing an elementary introduction to essential topics in tensor algebra and analysis to get started with continuum mechanics.
+
+- [Continuum Mechanics](https://amuthan.github.io/continuumMechanics/): This webpage is meant to provide a basic introduction to certain key ideas in continuum mechanics. *Note: I haven't had time to add the sections on solid mechanics yet!*
