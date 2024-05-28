@@ -21,7 +21,7 @@ permalink: /teaching/
 | Spring 2022 | AE 102: Data Analysis and Interpretation |
 | Fall 2021 | AE 639: Continuum Mechanics |
 | Spring 2021 | AE 102: Data Analysis and Interpretation (co-taught with [Prof. Prabhu Ramachandran](https://www.aero.iitb.ac.in/~prabhu/)) |
-| Fall 2020 | AE 731: Multiscale Modelign of Materials |
+| Fall 2020 | AE 731: Multiscale Modeling of Materials |
 | Spring 2020 | AE 102: Data Analysis and Interpretation (co-taught with [Prof. Prabhu Ramachandran](https://www.aero.iitb.ac.in/~prabhu/)) |
 | Fall 2019 | AE 639: Continuum Mechanics |
 | Spring 2019 | AE 639: Continuum Mechanics |
