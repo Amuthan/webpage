@@ -1,0 +1,45 @@
+site_name: Academic Webpage of Amuthan A. Ramabathiran
+site_author: Amuthan A. Ramabathiran
+site_description: This is the academic webpage of Amuthan A. Ramabathiran, Aerospace Engineering, Cal Poly San Luis Obispo.
+
+nav:
+  - Home: index.md
+  - Teaching: teaching.md
+  - Research: research.md
+  - Students: group.md
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - mathjaxhelper.js
+
+markdown_extensions:
+  - mdx_math
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - content.code.copy
+    - content.code.select
+
+plugins:
+  - search
+  - print-site
